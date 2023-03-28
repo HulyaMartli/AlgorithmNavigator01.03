@@ -24,10 +24,10 @@ This is a repository created to examine methods in Java in depth using Algorithm
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
    ```
-   git clone https://github.com/
+   git clone https://github.com/HulyaMartli/AlgorithmNavigator01.03
    ```
 
-3. Imported it in Intellij IDEA or any other Java IDE.
+3. Impor it in Intellij IDEA or any other Java IDE.
 
 4. Run Main class in the src/Main directory.
 

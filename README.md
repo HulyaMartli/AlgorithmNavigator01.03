@@ -27,7 +27,7 @@ This is a repository created to examine methods in Java in depth using Algorithm
    git clone https://github.com/HulyaMartli/AlgorithmNavigator01.03
    ```
 
-3. Impor it in Intellij IDEA or any other Java IDE.
+3. Import it in Intellij IDEA or any other Java IDE.
 
 4. Run Main class in the src/Main directory.
 

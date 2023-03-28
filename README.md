@@ -36,5 +36,6 @@ This is a repository created to examine methods in Java in depth using Algorithm
 * [Java 19](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html)
 * [Intellij IDEA](https://www.jetbrains.com/idea/)
 
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 

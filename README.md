@@ -1,6 +1,6 @@
 # Algorithm Navigator 01.03 (ongoing)
 
-This repository was created to examine methods in Java in depth using Algorithm problems. A basic console problem navigator was formed so the user can apply methods developed from the Algorithm problems. No front-end studies have been made in this project yet. The aim is to study and learn Java concepts using Algorithm questions, and it is an ongoing project.
+This repository was created to examine methods in Java in depth using Algorithm problems. A basic console problem navigator was formed so the user can apply methods developed from the Algorithm problems. No front-end studies have been made in this project yet. The aim is to study and learn Java concepts using Algorithm questions, and it is an ongoing project. 
 
 ## Content
 
